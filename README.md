@@ -16,7 +16,7 @@ For more information about the **Media Station X** project, please visit: https:
 * Go to your corresponding application store (please see: https://msx.benzac.de/info/?tab=PlatformSupport)
 * Install and launch the **Media Station X** application
 * Navigate to **Settings** → **Start Parameter** → **Setup**
-* Enter: `{ACCOUNT}.github.io` (in this case: `benzac-de.github.io`)
+* Set the security lock (for HTTPS mode) and enter: `{ACCOUNT}.github.io` (in this case: `benzac-de.github.io`)
 * Once you have completed the start parameter setup, your content is loaded every time you start the application
 
 ## Direct Launch
