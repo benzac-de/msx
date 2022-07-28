@@ -7,7 +7,7 @@ For more information about the Media Station X project, please visit: https://ms
 * Create a repository named **msx** under your account (in this case: https://github.com/benzac-de/msx)
 * Create a **start.json** file in this repository (for the data structure, please see: https://msx.benzac.de/wiki/index.php?title=Start_Object)
 * Create a **menu.json** file in this repository (for the data structure, please see: https://msx.benzac.de/wiki/index.php?title=Menu_Root_Object)
-* Setup GitHub pages by following this guide: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+* Setup GitHub Pages by following this guide: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
 ## Setup Start Parameter
 * Go to your corresponding application store (please see: https://msx.benzac.de/info/?tab=PlatformSupport)
