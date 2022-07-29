@@ -52,7 +52,7 @@
                     "imageWidth": 3,
                     "title": "Sed et sem augue",
                     "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list3_section0.json"
                 }
             ]
         },
@@ -128,7 +128,7 @@
                     "imageHeight": 2.5,
                     "title": "Aliquam nulla orci",
                     "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list3_section0.json"
                 },
                 {
                     "type": "default",
