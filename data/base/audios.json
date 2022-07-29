@@ -1,0 +1,30 @@
+{
+    "type": "pages",
+    "headline": "Audios",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "icon": "msx-white-soft:music-note",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "background": "http://msx.benzac.de/img/bg1.jpg",
+            "title": "Audio 1",
+            "playerLabel": "Audio 1",
+            "action": "audio:http://msx.benzac.de/media/audio1.mp3"
+        },
+        {
+            "background": "http://msx.benzac.de/img/bg2.jpg",
+            "title": "Audio 2",
+            "playerLabel": "Audio 2",
+            "action": "audio:http://msx.benzac.de/media/audio2.mp3"
+        },
+        {
+            "background": "http://msx.benzac.de/img/bg3.jpg",
+            "title": "Audio 3",
+            "playerLabel": "Audio 3",
+            "action": "audio:http://msx.benzac.de/media/audio3.mp3"
+        }
+    ]
+}

@@ -1,0 +1,646 @@
+{
+    "type": "list",
+    "headline": "Fourth List",
+    "preload": "next",
+    "flag": "tabs",
+    "pages": [
+        {
+            "important": false,
+            "offset": "0,0,0,0.25",
+            "items": [
+                {
+                    "type": "space",
+                    "layout": "0,0,12,3",
+                    "offset": "-1.25,-1,2,1",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_bg/1992/552",
+                    "imageFiller": "cover",
+                    "imageOverlay": 4
+                },
+                {
+                    "type": "space",
+                    "layout": "0,1,12,1",
+                    "offset": "-1.25,1,2,0",
+                    "color": "msx-black-soft"
+                },
+                {
+                    "type": "default",
+                    "layout": "0,2,3,1",
+                    "color": "transparent",
+                    "label": "First Section",
+                    "action": "[invalidate:content|replace:content:tabs:https://benzac-de.github.io/msx/data/extended/list3_section0.json]"
+                },
+                {
+                    "type": "default",
+                    "layout": "3,2,3,1",
+                    "color": "transparent",
+                    "label": "Second Section",
+                    "action": "[invalidate:content|replace:content:tabs:https://benzac-de.github.io/msx/data/extended/list3_section1.json]"
+                },
+                {
+                    "type": "default",
+                    "layout": "6,2,3,1",
+                    "color": "msx-white-soft",
+                    "label": "{col:msx-black}Third Section",
+                    "action": "[invalidate:content|replace:content:tabs:https://benzac-de.github.io/msx/data/extended/list3_section2.json]"
+                },
+                {
+                    "type": "default",
+                    "layout": "9,2,3,1",
+                    "color": "transparent",
+                    "label": "Fourth Section",
+                    "action": "[invalidate:content|replace:content:tabs:https://benzac-de.github.io/msx/data/extended/list3_section3.json]"
+                }
+            ]
+        },
+        {
+            "offset": "0,0,0,1",
+            "headline": "Third Section",
+            "items": [
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,0,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}First Item",
+                    "titleFooter": "Duis rutrum orci purus",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item0/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item0/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}First Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,0,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Second Item",
+                    "titleFooter": "Orci varius natoque penatibus et",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item1/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item1/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Second Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,2,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Third Item",
+                    "titleFooter": "Sed et sem augue",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item2/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item2/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Third Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,2,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Fourth Item",
+                    "titleFooter": "Mauris tincidunt non mauris ut",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item3/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item3/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Fourth Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,3,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Fifth Item",
+                    "titleFooter": "Sed et sem augue",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item4/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item4/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Fifth Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,3,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Sixth Item",
+                    "titleFooter": "Vestibulum ex lectus",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item5/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item5/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Sixth Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,5,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Seventh Item",
+                    "titleFooter": "Cras sapien tortor",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item6/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item6/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Seventh Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,5,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Eighth Item",
+                    "titleFooter": "Duis rutrum orci purus",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item7/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item7/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Eighth Item"
+                    }
+                }
+            ]
+        },
+        {
+            "offset": "0,0,0,1",
+            "headline": "Third Section",
+            "items": [
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,0,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Ninth Item",
+                    "titleFooter": "Aliquam nulla orci",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item8/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item8/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Ninth Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,0,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Tenth Item",
+                    "titleFooter": "Fusce posuere sapien turpis",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item9/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item9/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Tenth Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,2,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Eleventh Item",
+                    "titleFooter": "Fusce convallis sagittis tempus",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item10/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item10/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Eleventh Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,2,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}Twelfth Item",
+                    "titleFooter": "Aliquam nulla orci",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item11/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item11/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}Twelfth Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,3,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}13th Item",
+                    "titleFooter": "Aliquam nulla orci",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item12/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item12/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}13th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,3,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}14th Item",
+                    "titleFooter": "Fusce posuere sapien turpis",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item13/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item13/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}14th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,5,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}15th Item",
+                    "titleFooter": "Quisque euismod urna a arcu",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item14/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item14/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}15th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,5,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}16th Item",
+                    "titleFooter": "Aliquam nulla orci",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item15/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item15/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}16th Item"
+                    }
+                }
+            ]
+        },
+        {
+            "offset": "0,0,0,1",
+            "headline": "Third Section",
+            "items": [
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,0,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}17th Item",
+                    "titleFooter": "Fusce posuere sapien turpis",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item16/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item16/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}17th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,0,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}18th Item",
+                    "titleFooter": "Cras sapien tortor",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item17/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item17/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}18th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,2,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}19th Item",
+                    "titleFooter": "Cras sapien tortor",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item18/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item18/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}19th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,2,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}20th Item",
+                    "titleFooter": "Duis rutrum orci purus",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item19/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item19/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}20th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,3,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}21st Item",
+                    "titleFooter": "Quisque dolor ipsum",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item20/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item20/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}21st Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,3,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}22nd Item",
+                    "titleFooter": "Sed et sem augue",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item21/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item21/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}22nd Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,5,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}23rd Item",
+                    "titleFooter": "Orci varius natoque penatibus et",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item22/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item22/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}23rd Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,5,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}24th Item",
+                    "titleFooter": "Cras sapien tortor",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item23/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item23/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}24th Item"
+                    }
+                }
+            ]
+        },
+        {
+            "offset": "0,0,0,1",
+            "headline": "Third Section",
+            "items": [
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,0,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}25th Item",
+                    "titleFooter": "Nullam",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item24/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item24/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}25th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,0,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}26th Item",
+                    "titleFooter": "Aliquam nulla orci",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item25/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item25/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}26th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,2,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}27th Item",
+                    "titleFooter": "Duis rutrum orci purus",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item26/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item26/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}27th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,2,6,1",
+                    "offset": "0,-0.5,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}28th Item",
+                    "titleFooter": "Quisque euismod urna a arcu",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item27/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item27/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}28th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "0,3,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}29th Item",
+                    "titleFooter": "Fusce posuere sapien turpis",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item28/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item28/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}29th Item"
+                    }
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageWidth": 2.5,
+                    "layout": "6,3,6,1",
+                    "offset": "0,0,0,0.5",
+                    "enumerate": true,
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}30th Item",
+                    "titleFooter": "Quisque dolor ipsum",
+                    "imageFiller": "cover",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_item29/360/192",
+                    "action": "image:https://picsum.photos/seed/msx_10ae802d_item29/1920/1080",
+                    "properties": {
+                        "image:extension": "| {col:msx-white}30th Item"
+                    }
+                }
+            ]
+        },
+        {
+            "important": true,
+            "items": [
+                {
+                    "type": "space",
+                    "layout": "0,0,12,1",
+                    "offset": "0,0,0,-0.5",
+                    "headline": "Mauris tincidunt non mauris ut"
+                },
+                {
+                    "type": "default",
+                    "layout": "0,1,6,3",
+                    "offset": "0,-0.5,0,-0.25",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_footer0/840/372",
+                    "imageFiller": "cover",
+                    "title": "Mauris tincidunt non mauris ut",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                },
+                {
+                    "type": "default",
+                    "layout": "6,1,6,3",
+                    "offset": "0,-0.5,0,-0.25",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_footer1/840/372",
+                    "imageFiller": "cover",
+                    "title": "Duis rutrum orci purus",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                },
+                {
+                    "type": "default",
+                    "layout": "0,4,6,2",
+                    "offset": "0,-0.75,0,0.75",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_footer2/840/372",
+                    "imageFiller": "cover",
+                    "title": "Vestibulum ex lectus",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                },
+                {
+                    "type": "default",
+                    "layout": "6,4,6,2",
+                    "offset": "0,-0.75,0,0.75",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_10ae802d_footer3/840/372",
+                    "imageFiller": "cover",
+                    "title": "Mauris tincidunt non mauris ut",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                }
+            ]
+        }
+    ]
+}

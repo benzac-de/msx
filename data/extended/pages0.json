@@ -1,0 +1,438 @@
+{
+    "type": "pages",
+    "headline": "First Pages",
+    "preload": "next",
+    "underlay": {
+        "action": "[update:content:underlay:image|update:content:underlay:text]",
+        "data": {
+            "text": "Press {txt:msx-white:OK} to open {txt:msx-white:First List}",
+            "image": "https://picsum.photos/seed/msx_24764bb8_item0/1920/1080"
+        },
+        "items": [
+            {
+                "id": "image",
+                "type": "space",
+                "layout": "0,0,12,6",
+                "offset": "-0.75,-1,1.5,1.67",
+                "color": "msx-glass",
+                "image": "none",
+                "imageFiller": "cover",
+                "imageOverlay": 4
+            },
+            {
+                "type": "space",
+                "layout": "0,5,12,1",
+                "offset": "-1.25,-0.33,2,1",
+                "color": "msx-black-soft"
+            },
+            {
+                "id": "text",
+                "type": "space",
+                "layout": "0,4,12,1",
+                "offset": "0,0.25,0,0",
+                "headline": "",
+                "text": ""
+            }
+        ]
+    },
+    "template": {
+        "type": "default",
+        "layout": "0,0,2,1",
+        "area": "0,5,12,1",
+        "color": "msx-glass",
+        "imageFiller": "cover",
+        "enumerate": false
+    },
+    "items": [
+        {
+            "selection": {
+                "important": true,
+                "headline": "Duis rutrum orci purus",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:First List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item0/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item0/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list0.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Orci varius natoque penatibus et",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Second List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item1/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item1/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list1.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Sed et sem augue",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Third List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item2/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item2/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list2.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Mauris tincidunt non mauris ut",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item3/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item3/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Sed et sem augue",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fifth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item4/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item4/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list4.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Vestibulum ex lectus",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Sixth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item5/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item5/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list5.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Cras sapien tortor",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:First List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item6/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item6/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list0.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Duis rutrum orci purus",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Second List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item7/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item7/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list1.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Aliquam nulla orci",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Third List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item8/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item8/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list2.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Fusce posuere sapien turpis",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item9/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item9/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Fusce convallis sagittis tempus",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fifth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item10/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item10/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list4.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Aliquam nulla orci",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Sixth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item11/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item11/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list5.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Aliquam nulla orci",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:First List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item12/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item12/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list0.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Fusce posuere sapien turpis",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Second List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item13/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item13/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list1.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Quisque euismod urna a arcu",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Third List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item14/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item14/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list2.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Aliquam nulla orci",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item15/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item15/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Fusce posuere sapien turpis",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fifth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item16/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item16/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list4.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Cras sapien tortor",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Sixth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item17/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item17/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list5.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Cras sapien tortor",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:First List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item18/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item18/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list0.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Duis rutrum orci purus",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Second List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item19/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item19/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list1.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Quisque dolor ipsum",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Third List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item20/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item20/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list2.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Sed et sem augue",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item21/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item21/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Orci varius natoque penatibus et",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fifth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item22/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item22/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list4.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Cras sapien tortor",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Sixth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item23/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item23/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list5.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Nullam",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:First List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item24/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item24/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list0.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Aliquam nulla orci",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Second List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item25/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item25/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list1.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Duis rutrum orci purus",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Third List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item26/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item26/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list2.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Quisque euismod urna a arcu",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item27/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item27/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Fusce posuere sapien turpis",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Fifth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item28/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item28/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list4.json"
+        },
+        {
+            "selection": {
+                "important": true,
+                "headline": "Quisque dolor ipsum",
+                "action": "[update:content:underlay:image|update:content:underlay:text]",
+                "data": {
+                    "text": "Press {txt:msx-white:OK} to open {txt:msx-white:Sixth List}",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item29/1920/1080"
+                }
+            },
+            "image": "https://picsum.photos/seed/msx_24764bb8_item29/264/120",
+            "action": "content:https://benzac-de.github.io/msx/data/extended/list5.json"
+        }
+    ]
+}

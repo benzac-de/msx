@@ -1,0 +1,29 @@
+{
+    "type": "pages",
+    "headline": "Images",
+    "template": {
+        "type": "default",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "imageFiller": "cover",
+        "action": "image:context"
+    },
+    "items": [
+        {
+            "titleFooter": "Image 1",
+            "image": "http://msx.benzac.de/img/bg1.jpg"
+        },
+        {
+            "titleFooter": "Image 2",
+            "image": "http://msx.benzac.de/img/bg2.jpg"
+        },
+        {
+            "titleFooter": "Image 3",
+            "image": "http://msx.benzac.de/img/bg3.jpg"
+        },
+        {
+            "titleFooter": "Image 4",
+            "image": "http://msx.benzac.de/img/test.jpg"
+        }
+    ]
+}

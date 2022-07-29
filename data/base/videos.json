@@ -1,0 +1,27 @@
+{
+    "type": "pages",
+    "headline": "Videos",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "icon": "msx-white-soft:movie",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "Video 1",
+            "playerLabel": "Video 1",
+            "action": "video:http://msx.benzac.de/media/video1.mp4"
+        },
+        {
+            "title": "Video 2",
+            "playerLabel": "Video 2",
+            "action": "video:http://msx.benzac.de/media/video2.mp4"
+        },
+        {
+            "title": "Video 3",
+            "playerLabel": "Video 3",
+            "action": "video:http://msx.benzac.de/media/video3.mp4"
+        }
+    ]
+}

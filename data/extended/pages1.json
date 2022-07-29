@@ -1,0 +1,222 @@
+{
+    "type": "pages",
+    "headline": "Second Pages",
+    "preload": "next",
+    "pages": [
+        {
+            "important": false,
+            "headline": "Quisque dolor ipsum",
+            "items": [
+                {
+                    "type": "teaser",
+                    "layout": "0,0,4,6",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_bg/552/840",
+                    "imageFiller": "cover",
+                    "badge": "Cras sapien tortor",
+                    "title": "Orci varius natoque penatibus et",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:First List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list0.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "4,0,8,2",
+                    "color": "msx-glass",
+                    "wrapperColor": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item0/432/264",
+                    "imageFiller": "cover",
+                    "imageWidth": 3,
+                    "title": "Duis rutrum orci purus",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Second List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list1.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "4,2,8,2",
+                    "color": "msx-glass",
+                    "wrapperColor": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item1/432/264",
+                    "imageFiller": "cover",
+                    "imageWidth": 3,
+                    "title": "Orci varius natoque penatibus et",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Third List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list2.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "4,4,8,2",
+                    "color": "msx-glass",
+                    "wrapperColor": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item2/432/264",
+                    "imageFiller": "cover",
+                    "imageWidth": 3,
+                    "title": "Sed et sem augue",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+                }
+            ]
+        },
+        {
+            "headline": "Quisque dolor ipsum",
+            "items": [
+                {
+                    "type": "teaser",
+                    "layout": "0,0,8,4",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item3/1128/552",
+                    "imageFiller": "cover",
+                    "badge": "Sed et sem augue",
+                    "title": "Mauris tincidunt non mauris ut",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Fifth List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list4.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "0,4,8,2",
+                    "color": "msx-glass",
+                    "wrapperColor": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item4/432/264",
+                    "imageFiller": "cover",
+                    "imageWidth": 3,
+                    "title": "Sed et sem augue",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Sixth List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list5.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "8,0,4,4",
+                    "color": "msx-glass",
+                    "wrapperColor": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item5/552/360",
+                    "imageFiller": "cover",
+                    "imageHeight": 2.5,
+                    "title": "Vestibulum ex lectus",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:First List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list0.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "8,4,4,2",
+                    "color": "msx-glass",
+                    "title": "Cras sapien tortor",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Second List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list1.json"
+                }
+            ]
+        },
+        {
+            "headline": "Mauris tincidunt non mauris ut",
+            "items": [
+                {
+                    "type": "teaser",
+                    "layout": "4,0,8,4",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item7/1128/552",
+                    "imageFiller": "cover",
+                    "badge": "Quisque dolor ipsum",
+                    "title": "Duis rutrum orci purus",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Third List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list2.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "0,0,4,4",
+                    "color": "msx-glass",
+                    "wrapperColor": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item8/552/360",
+                    "imageFiller": "cover",
+                    "imageHeight": 2.5,
+                    "title": "Aliquam nulla orci",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Fourth List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list3.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "0,4,4,2",
+                    "color": "msx-glass",
+                    "title": "Fusce posuere sapien turpis",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Fifth List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list4.json"
+                },
+                {
+                    "type": "default",
+                    "layout": "4,4,8,2",
+                    "color": "msx-glass",
+                    "wrapperColor": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_item10/432/264",
+                    "imageFiller": "cover",
+                    "imageWidth": 3,
+                    "title": "Fusce convallis sagittis tempus",
+                    "titleFooter": "Press {txt:msx-white:OK} to open {txt:msx-white:Sixth List}",
+                    "action": "content:https://benzac-de.github.io/msx/data/extended/list5.json"
+                }
+            ]
+        },
+        {
+            "important": true,
+            "headline": "Mauris tincidunt non mauris ut",
+            "items": [
+                {
+                    "type": "default",
+                    "layout": "0,0,6,2",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_footer0/840/264",
+                    "imageFiller": "cover",
+                    "title": "Mauris tincidunt non mauris ut",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                },
+                {
+                    "type": "default",
+                    "layout": "6,0,6,2",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_footer1/840/264",
+                    "imageFiller": "cover",
+                    "title": "Duis rutrum orci purus",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                },
+                {
+                    "type": "default",
+                    "layout": "0,2,6,2",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_footer2/840/264",
+                    "imageFiller": "cover",
+                    "title": "Vestibulum ex lectus",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                },
+                {
+                    "type": "default",
+                    "layout": "6,2,6,2",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_footer3/840/264",
+                    "imageFiller": "cover",
+                    "title": "Mauris tincidunt non mauris ut",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                },
+                {
+                    "type": "default",
+                    "layout": "0,4,6,2",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_footer4/840/264",
+                    "imageFiller": "cover",
+                    "title": "Cras sapien tortor",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                },
+                {
+                    "type": "default",
+                    "layout": "6,4,6,2",
+                    "color": "msx-glass",
+                    "image": "https://picsum.photos/seed/msx_24764bb8_footer5/840/264",
+                    "imageFiller": "cover",
+                    "title": "Mauris tincidunt non mauris ut",
+                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "action": "[invalidate:content|reload:content]"
+                }
+            ]
+        }
+    ]
+}

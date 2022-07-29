@@ -1,0 +1,77 @@
+{
+    "headline": "GitHub Pages Example",
+    "menu": [
+        {
+            "icon": "info",
+            "label": "Welcome",
+            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+        },
+        {
+            "type": "separator",
+            "label": "Base"
+        },
+        {
+            "icon": "movie",
+            "label": "Videos",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+        },
+        {
+            "icon": "music-note",
+            "label": "Audios",
+            "data": "https://benzac-de.github.io/msx/data/base/audios.json"
+        },
+        {
+            "icon": "image",
+            "label": "Images",
+            "data": "https://benzac-de.github.io/msx/data/base/images.json"
+        },
+        {
+            "type": "separator",
+            "label": "Extended - Lists"
+        },
+        {
+            "icon": "view-stream",
+            "label": "First List",
+            "data": "https://benzac-de.github.io/msx/data/extended/list0.json"
+        },
+        {
+            "icon": "view-stream",
+            "label": "Second List",
+            "data": "https://benzac-de.github.io/msx/data/extended/list1.json"
+        },
+        {
+            "icon": "view-stream",
+            "label": "Third List",
+            "data": "https://benzac-de.github.io/msx/data/extended/list2.json"
+        },
+        {
+            "icon": "view-stream",
+            "label": "Fourth List",
+            "data": "https://benzac-de.github.io/msx/data/extended/list3_section0.json"
+        },
+        {
+            "icon": "view-stream",
+            "label": "Fifth List",
+            "data": "https://benzac-de.github.io/msx/data/extended/list4.json"
+        },
+        {
+            "icon": "view-stream",
+            "label": "Sixth List",
+            "data": "https://benzac-de.github.io/msx/data/extended/list5.json"
+        },
+        {
+            "type": "separator",
+            "label": "Extended - Pages"
+        },
+        {
+            "icon": "view-array",
+            "label": "First Pages",
+            "data": "https://benzac-de.github.io/msx/data/extended/pages0.json"
+        },
+        {
+            "icon": "view-array",
+            "label": "Second Pages",
+            "data": "https://benzac-de.github.io/msx/data/extended/pages1.json"
+        }
+    ]
+}

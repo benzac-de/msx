@@ -1,0 +1,19 @@
+{
+    "pages": [
+        {
+            "items": [
+                {
+                    "type": "default",
+                    "layout": "0,0,12,6",
+                    "color": "msx-glass",
+                    "headline": "Welcome to Media Station X - GitHub Pages Example",
+                    "text": [
+                        "This project shows a way to host {txt:msx-white:Media Station X} JSON files via {txt:msx-white:GitHub Pages}.{br}{br}",
+                        "{ico:msx-white:play-arrow} For more information about the {txt:msx-white:Media Station X} project, please visit: {txt:msx-white:https://msx.benzac.de/info/}.{br}",
+                        "{ico:msx-white:play-arrow} Checkout this project on GitHub: {txt:msx-white:https://github.com/benzac-de/msx}.{br}"
+                    ]
+                }
+            ]
+        }
+    ]
+}
