@@ -26,6 +26,11 @@
             "data": "https://benzac-de.github.io/msx/data/base/images.json"
         },
         {
+            "icon": "smart-display",
+            "label": "YouTube",
+            "data": "https://benzac-de.github.io/msx/data/base/youtube.json"
+        },
+        {
             "type": "separator",
             "label": "Extended - Lists"
         },
