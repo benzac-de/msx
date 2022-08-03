@@ -25,3 +25,6 @@ For more information about the **Media Station X** project, please visit: https:
 ## Test In Browser
 * Use a standard web browser and open the following URL: 
   * <span>https:</span>//msx.benzac.de?start=menu:<span>https:</span>//{ACCOUNT}.github.io/path/to/menu (in this case: https://msx.benzac.de?start=menu:https://benzac-de.github.io/msx/data/menu.json)
+
+## Example Screenshots
+![GitHub Pages Example](https://msx.benzac.de/info/img/github2.png)
