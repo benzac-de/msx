@@ -28,3 +28,6 @@ For more information about the **Media Station X** project, please visit: https:
 
 ## Example Screenshots
 ![GitHub Pages Example](https://msx.benzac.de/info/img/github2.png)
+
+## Example Video
+[![GitHub Pages Example](https://img.youtube.com/vi/d9gff20WY4M/maxresdefault.jpg)](https://www.youtube.com/watch?v=d9gff20WY4M)
