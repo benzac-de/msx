@@ -2,7 +2,7 @@
     "type": "list",
     "headline": "Second List",
     "preload": "next",
-    "overlay": {
+    "_overlay": {
         "items": [
             {
                 "type": "space",
