@@ -2,16 +2,6 @@
     "type": "list",
     "headline": "First List",
     "preload": "next",
-    "_overlay": {
-        "items": [
-            {
-                "type": "space",
-                "layout": "0,3,12,3",
-                "offset": "-1.25,0.67,2,0",
-                "imageOverlay": 1
-            }
-        ]
-    },
     "pages": [
         {
             "important": false,
