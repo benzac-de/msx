@@ -7,6 +7,7 @@
         "items": [
             {
                 "type": "space",
+                "round": false,
                 "layout": "0,3,12,3",
                 "offset": "-1.25,-0.33,2,1",
                 "color": "msx-black-soft"

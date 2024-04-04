@@ -10,6 +10,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,3",
                     "offset": "-1.25,-1,2,1",
                     "color": "msx-glass",
@@ -19,6 +20,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,1,12,1",
                     "offset": "-1.25,1,2,0",
                     "color": "msx-black-soft"

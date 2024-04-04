@@ -12,6 +12,7 @@
             {
                 "id": "image",
                 "type": "space",
+                "round": false,
                 "layout": "0,0,12,6",
                 "offset": "-0.75,-1,1.5,1.67",
                 "color": "msx-glass",
@@ -21,6 +22,7 @@
             },
             {
                 "type": "space",
+                "round": false,
                 "layout": "0,5,12,1",
                 "offset": "-1.25,-0.33,2,1",
                 "color": "msx-black-soft"

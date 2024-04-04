@@ -9,6 +9,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,3",
                     "offset": "-1.25,-1,2,1",
                     "color": "msx-glass",
@@ -18,6 +19,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "6,0,6,3",
                     "offset": "0,-1,0,1",
                     "color": "msx-black-soft"
@@ -46,6 +48,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "offset": "-1.25,-1,2,1.67",
                     "color": "msx-glass",
@@ -55,6 +58,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,3,12,3",
                     "offset": "-1.25,0.33,2,0.33",
                     "color": "msx-black-soft"
@@ -135,6 +139,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "offset": "-1.25,-1,2,1.67",
                     "color": "msx-glass",
@@ -144,6 +149,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,3,12,3",
                     "offset": "-1.25,0.33,2,0.33",
                     "color": "msx-black-soft"
@@ -224,6 +230,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "offset": "-1.25,-1,2,1.67",
                     "color": "msx-glass",
@@ -233,6 +240,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,3,12,3",
                     "offset": "-1.25,0.33,2,0.33",
                     "color": "msx-black-soft"
@@ -313,6 +321,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "offset": "-1.25,-1,2,1.67",
                     "color": "msx-glass",
@@ -322,6 +331,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,3,12,3",
                     "offset": "-1.25,0.33,2,0.33",
                     "color": "msx-black-soft"
@@ -402,6 +412,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "offset": "-1.25,-1,2,1.67",
                     "color": "msx-glass",
@@ -411,6 +422,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,3,12,3",
                     "offset": "-1.25,0.33,2,0.33",
                     "color": "msx-black-soft"
@@ -491,6 +503,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "offset": "-1.25,-1,2,1.67",
                     "color": "msx-glass",
@@ -500,6 +513,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,3,12,3",
                     "offset": "-1.25,0.33,2,0.33",
                     "color": "msx-black-soft"
@@ -580,6 +594,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "offset": "-1.25,-1,2,1.67",
                     "color": "msx-glass",
@@ -589,6 +604,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,3,12,3",
                     "offset": "-1.25,0.33,2,0.33",
                     "color": "msx-black-soft"
@@ -669,6 +685,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "offset": "-1.25,-1,2,1.67",
                     "color": "msx-glass",
@@ -678,6 +695,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,3,12,3",
                     "offset": "-1.25,0.33,2,0.33",
                     "color": "msx-black-soft"
@@ -717,6 +735,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "color": "msx-glass",
                     "offset": "-1.25,-1,2,1.67",
@@ -726,6 +745,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,1,12,2",
                     "offset": "-1.25,-1,2,0.5",
                     "color": "msx-black-soft"

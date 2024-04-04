@@ -9,6 +9,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,3",
                     "offset": "-1.25,-1,2,1",
                     "color": "msx-glass",
@@ -298,6 +299,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,1,12,4",
                     "offset": "-1.25,-0.5,2,0",
                     "color": "msx-glass",
@@ -638,6 +640,7 @@
                 },
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,1,12,4",
                     "offset": "-1.25,-0.5,2,0",
                     "color": "msx-glass",
@@ -842,6 +845,7 @@
             "items": [
                 {
                     "type": "space",
+                    "round": false,
                     "layout": "0,0,12,6",
                     "color": "msx-glass",
                     "offset": "-1.25,0,2,0.67",
