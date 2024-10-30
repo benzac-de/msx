@@ -108,7 +108,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "First Page - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "First Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
@@ -195,7 +195,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "Second Page - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "Second Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
@@ -282,7 +282,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "Third Page - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "Third Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
@@ -362,7 +362,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "First Subpage - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "First Subpage {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
@@ -449,7 +449,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "Fourth Page - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "Fourth Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
@@ -536,7 +536,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "Fifth Page - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "Fifth Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
@@ -623,7 +623,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "Sixth Page - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "Sixth Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
@@ -703,7 +703,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "Second Subpage - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "Second Subpage {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
@@ -790,7 +790,7 @@
                     "icon": "more-horiz",
                     "iconSize": "small",
                     "selection": {
-                        "headline": "Seventh Page - Show All {txt:msx-white-soft:(30)}"
+                        "headline": "Seventh Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
                     "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
                 }
