@@ -2,6 +2,7 @@
     "type": "list",
     "headline": "Sixth List",
     "preload": "next",
+    "navigationSpan": 6,
     "overlay": {
         "items": [
             {
@@ -29,6 +30,7 @@
         ]
     },
     "footer": {
+        "navigationSpan": -1,
         "important": true,
         "offset": "0,0.5,0,0",
         "items": [
