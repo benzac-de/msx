@@ -1,5 +1,8 @@
 {
     "name": "GitHub Pages Example",
     "version": "1.0.3",
-    "parameter": "menu:https://benzac-de.github.io/msx/data/menu.json"
+    "parameter": "menu:https://benzac-de.github.io/msx/data/menu.json",
+    "launcher": {
+        "icon": "pages"
+    }
 }
